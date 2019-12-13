@@ -3,7 +3,8 @@
   justify-content: center;
   align-items: center;
   height: 70px;
-  border-bottom: 2px solid #f25f4c;
+  border-bottom: 2px dashed #f25f4c;
+  box-shadow: 5px 0px 3px 5px #f25f4c;
 }
 
 .header__text {
